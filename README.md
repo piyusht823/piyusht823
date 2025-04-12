@@ -1,10 +1,7 @@
 <img src="https://github.com/piyusht823/piyusht823/blob/f5ad3c2cc321a843130570c8427da147c185b5eb/banner.png" width="1000" height="300">
 <h1 align="center">Hi 👋, I'm Piyush Kumar Tiwari</h1>
-<h3 align="center">Final year Computer Science and Engineering (B.Tech)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyusht823&label=Profile%20views&color=0e75b6&style=flat" alt="piyusht823" /> </p>
-
-- 🔭 I’m currently working on **Remote Health Monitering IOT system**
+<p align="left"> <img src="" alt="piyusht823" /> </p>
 
 - 📫 How to reach me **piyusht823@gmail.com**
 
